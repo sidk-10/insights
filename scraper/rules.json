@@ -1,0 +1,23 @@
+{
+    "common": {
+        "elements": [
+            "nav", "footer", "style", "script", "img", "a"
+        ],
+        "classes": [
+            "social", "header", "footer"
+        ]
+    },
+    "indiatoday": {
+        "elements": ["aside"],
+        "classes": [
+            "adtext", "social-list", "tags", "inline-story-add", "story-header-ad", "inline-story-ad", "story-embed-video"
+        ]
+    },
+    "theprint": {
+        "classes": ["postBtm", "post_contribute", "comments", "fontsize_Btn", "td_block_wrap", "article_divider"],
+        "elements": ["aside", "button", "figcaption"]
+    },
+    "thewire": {
+        "elements": ["ins"]
+    }
+}
